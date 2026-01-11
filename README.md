@@ -36,8 +36,3 @@ This project focuses on building a mini GPT-style language model trained on Shak
 - Hands-on exposure to Large Language Model concepts
 - Improved understanding of deep learning-based text generation
 
----
-
-## Future Enhancements
-
-- Training on a larger
